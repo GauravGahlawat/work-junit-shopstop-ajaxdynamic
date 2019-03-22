@@ -1,0 +1,1 @@
+# work-junit-shopstop-ajaxdynamic
